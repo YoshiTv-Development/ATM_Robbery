@@ -5,7 +5,7 @@ name 'ATM_Robbery'
 description 'ATM Robbery'
 author 'YoshiTv'
 version '1.0.0'
-discord 'https://discord.gg/pGP37hb5rF'
+discord 'https://discord.gg/v73eQpGp5b'
 
 shared_script {
     '@es_extended/imports.lua',
